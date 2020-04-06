@@ -1,4 +1,4 @@
-# Automated test
+# Automated test  
 
 
 Check release notes for screenshots and gifs.
