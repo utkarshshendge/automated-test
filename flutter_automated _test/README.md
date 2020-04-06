@@ -1,6 +1,7 @@
-# flutter_reversi
+# Automated test
 
-A new Flutter project.
+
+Check release notes for screenshots and gifs.
 
 ## Getting Started
 
